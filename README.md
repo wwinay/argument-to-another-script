@@ -1,0 +1,3 @@
+# argument-to-another-script
+Pass argument to another script which is called in script...
+this is a shell script
